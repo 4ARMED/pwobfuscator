@@ -9,7 +9,7 @@ Input is a space delimited file of usernames and passwords, just like you'd get 
 Output is a tab separated file which you can chuck into Excel to get a quick table.
 It's not perfect, if you've got a password with a space in you'll have fun but I'm sure you can tweak it as you need.
 
-@marcwickenden
+<a href="http://twitter.com/marcwickenden">@marcwickenden</a>
 
 ### Usage
 
