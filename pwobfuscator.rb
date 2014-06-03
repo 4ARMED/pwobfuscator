@@ -11,5 +11,5 @@ end
 
 File.open(ARGV.shift).readlines.each do |line|
   (username, password) = line.split
-  puts "#{username}:#{obfuscate(password)}" if password
+  puts "#{username}\t#{obfuscate(password)}" if password
 end
